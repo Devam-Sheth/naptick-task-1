@@ -1,0 +1,10 @@
+{"record_id": "loc_001", "user_id": "user_alpha", "date": "2025-05-18", "text_content_for_rag": "On May 18th, Devam's significant locations included 'Home' during the day and 'Law Garden' for a brief walk in the late afternoon."}
+{"record_id": "loc_002", "user_id": "user_alpha", "date": "2025-05-19", "text_content_for_rag": "Devam mentioned working late at the 'Main Office' on May 19th, returning home around 9 PM."}
+{"record_id": "loc_003", "user_id": "user_beta", "date": "2025-05-19", "text_content_for_rag": "Monika was at the 'Community Center Gym' for an evening class on May 19th until 8:30 PM."}
+{"record_id": "loc_004", "user_id": "user_gamma", "date": "2025-05-20", "text_content_for_rag": "Niketu reported travelling for work on May 20th, staying at 'Airport Hotel XYZ'."}
+{"record_id": "loc_005", "user_id": "user_alpha", "date": "2025-05-20", "text_content_for_rag": "During the day of May 20th, Devam was primarily at 'Home Office'. Evening spent at 'Friend's House' for dinner."}
+{"record_id": "loc_006", "user_id": "user_beta", "date": "2025-05-20", "text_content_for_rag": "Monika's location on May 20th: 'Local Cafe' for morning work, 'Home' in the afternoon and evening."}
+{"record_id": "loc_007", "user_id": "user_gamma", "date": "2025-05-21", "text_content_for_rag": "Niketu was in 'Client Office - City B' for meetings all day on May 21st."}
+{"record_id": "loc_008", "user_id": "user_delta", "date": "2025-05-18", "text_content_for_rag": "Maulin spent May 18th mostly at 'Home', with a visit to 'Local Library' in the afternoon."}
+{"record_id": "loc_009", "user_id": "user_epsilon", "date": "2025-05-19", "text_content_for_rag": "Siddh was at 'University Campus' for classes on May 19th, then 'Student Dorm' in the evening."}
+{"record_id": "loc_010", "user_id": "user_zeta", "date": "2025-05-20", "text_content_for_rag": "Adit confirmed being on a 'Hiking Trail - Mountain Park' for most of May 20th."}
