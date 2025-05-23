@@ -49,12 +49,13 @@ This project implements a modular RAG system using LangChain, local embedding mo
     ```
 
 3.  **Install Python Dependencies:**
-    Install all required Python libraries using the `requirements.txt` file.
+    Install all required Python libraries using the `requirements.txt` and `requirements1.txt` file (to eradicate the error of 'resolution-too-deep' error).
     ```bash
     # Ensure pip is up-to-date within the venv
     python -m pip install --upgrade pip
     # Install requirements
     pip install -r requirements.txt
+    pip install -r requirements1.txt
     ```
 ## Running the RAG Chatbot
 
@@ -100,7 +101,7 @@ This project implements a modular RAG system using LangChain, local embedding mo
     * `user_profile.jsonl`
     * `location_data.jsonl`
     * `custom_notes.jsonl`
-* `requirements.txt`: Lists Python dependencies.
+* `requirements.txt` and `requirements1.txt`: Lists Python dependencies.
 * `README.md`: This file.
 
 ## Excluded Files (Not in GitHub Repository)
