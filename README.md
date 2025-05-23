@@ -35,7 +35,7 @@ This project implements a modular RAG system using LangChain, local embedding mo
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Devam-Sheth/naptick-task-1.git](https://github.com/Devam-Sheth/naptick-task-1.git) # Or your specific repo link
+    git clone https://github.com/Devam-Sheth/naptick-task-1.git
     cd naptick-task-1
     ```
 
@@ -56,9 +56,6 @@ This project implements a modular RAG system using LangChain, local embedding mo
     # Install requirements
     pip install -r requirements.txt
     ```
-    *(Note: Ensure a `requirements.txt` file is created and included in your repository. You can generate one using `pip freeze > requirements.txt` from your activated environment after installing all necessary packages like `langchain`, `langchain-core`, `langchain-community`, `langchain-text-splitters`, `langchain-huggingface`, `sentence-transformers`, `langchain-chroma`, `chromadb`, `transformers[torch]`, `accelerate` etc.).*
-
-
 ## Running the RAG Chatbot
 
 1.  Navigate to the root of the cloned repository in your terminal (where `app.py` is located), with your virtual environment activated.
